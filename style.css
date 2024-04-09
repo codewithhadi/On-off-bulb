@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+    font-family: sans-serif;
+}
+#cake{
+background-color: tomato;
+border: none;
+height: 35px;
+width: 60px;
+}
+#bulb{
+    background-color: tomato;
+    border: none;
+    height: 35px;
+    width: 60px;
+    }
+#bulk{
+    background-color: tomato;
+    border: none;
+    height: 35px;
+    width: 60px;
+}
+#mis{
+    background-color: tomato;
+    border: none;
+    height: 35px;
+    width: 60px; 
+}
